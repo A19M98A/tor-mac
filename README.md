@@ -1,4 +1,6 @@
-## First install tor on your terminal
+## Tor and set proxy on it
+
+First install tor on your terminal
 
 $brew install tor
 
