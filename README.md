@@ -1,4 +1,4 @@
-First install tor on your terminal
+## First install tor on your terminal
 
 $brew install tor
 
