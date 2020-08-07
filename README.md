@@ -11,4 +11,4 @@ go in tor.sh directori then type
 $chmod +x tor.sh
 $./tor
 
-![alt text](https://github.com/UnknownAMA/tor-mac/blob/master/images/1.jpg?raw=true)
+![alt text](https://github.com/UnknownAMA/tor-mac/blob/master/images/2.jpg?raw=true)
