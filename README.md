@@ -1,6 +1,6 @@
 ## Tor and set proxy on it
 
-#Install
+Install
 
 First install tor on your terminal
 
